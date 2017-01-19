@@ -1,0 +1,4 @@
+https://github.com/zaoqi/minetestmodpack_freeminer.git
+https://github.com/Jeija/minetest-mod-mesecons.git
+https://github.com/Neuromancer56/MinetestAmbience.git
+https://github.com/BlockMen/cme.git

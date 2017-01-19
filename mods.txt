@@ -1,0 +1,3 @@
+https://github.com/minetest-mods/lightning.git
+https://github.com/zaoqi/minetestmod_mccmd.git
+https://github.com/minetest-mods/intllib.git
