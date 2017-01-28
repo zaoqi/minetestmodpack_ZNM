@@ -60,7 +60,7 @@ for zip in $zipMods ;do
 	(unZip "$zip" || error "解压$zip失败")&
 done
 cd $packdir
-for zip in $zipMobpacks ;do
+for zip in $zipModpacks ;do
 	(unZip "$zip" || error "解压$zip失败")&
 done
 
