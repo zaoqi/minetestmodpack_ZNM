@@ -1,2 +1,2 @@
-# minetestmodpack_minecraft-like
-Minecraft-like
+# ZNM
+ZNM's Not Minecraft
