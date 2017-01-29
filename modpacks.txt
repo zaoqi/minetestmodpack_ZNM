@@ -3,3 +3,4 @@ https://github.com/Jeija/minetest-mod-mesecons.git
 https://github.com/Neuromancer56/MinetestAmbience.git
 https://github.com/BlockMen/cme.git
 https://github.com/BlockMen/hud_hunger.git
+https://github.com/zaoqi/minetestmodpack_craftingpack.git

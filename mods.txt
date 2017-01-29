@@ -2,3 +2,5 @@ https://github.com/minetest-mods/lightning.git
 https://github.com/zaoqi/minetestmod_mccmd.git
 https://github.com/minetest-mods/intllib.git
 https://github.com/TomasJLuis/mt-slimes-redone.git
+https://github.com/D00Med/witchcraft.git #dependancies:http://repo.or.cz/minetest_playereffects.git
+http://repo.or.cz/minetest_playereffects.git #https://forum.minetest.net/viewtopic.php?p=147478 #[Mod] Player Effects [1.2.0] [playereffects]
