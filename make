@@ -51,11 +51,11 @@ unZip() {
 )&
 cd $moddir
 for mod in $(readList $dir/mods.txt) ;do
-	(git clone "$mod" || error "运行git clone $mod失败")&
+	(git clone --depth 1 "$mod" || error "运行git clone $mod失败")&
 done
 cd $packdir
 for pack in $(readList $dir/modpacks.txt) ;do
-	(git clone "$pack" || error "运行git clone $pack失败")&
+	(git clone --depth 1 "$pack" || error "运行git clone $pack失败")&
 done
 cd $download
 for file in $(readList $dir/modsWget.txt) ;do
